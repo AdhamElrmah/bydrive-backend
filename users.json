@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "passwordHash": "$2a$10$Wq1J2H1yq3GZQqYqYxQ3Eu1Yv6rZ6X6/3c7zQvQ/6u1pZ8eK1Yz6a",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "adham",
+    "email": "a@gmail.com",
+    "passwordHash": "$2a$10$sbbMhALSy.P6d2ISZO3F5.3e.B0QN7ks9ts5djkFNRRsNqbVOIy0K",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "AdhamAhmed",
+    "email": "ad@gmail.com",
+    "passwordHash": "$2a$10$D23iHrnEBulpIG66HyOQ4eER8OLPxTW/9tnnMRo0u4YExssNAKu/6",
+    "role": "admin"
+  },
+  {
+    "id": 4,
+    "name": "user",
+    "email": "user@gmail.com",
+    "passwordHash": "$2a$10$B8.E4p4g4FZaqx2xXodx2udL4VMS0KT34XLvBhMtVnggNvfeKlO2e",
+    "role": "user"
+  },
+  {
+    "id": 7,
+    "name": "adham ahmed",
+    "email": "adham@gmail.com",
+    "passwordHash": "$2a$10$TlaRtES7geDv0PNCFEVJzO9y7yuBitxh3C6ttG88Q00X83smpU4mW",
+    "role": "user"
+  }
+]

@@ -1,0 +1,2386 @@
+[
+  {
+    "id": "2019-fiat-500",
+    "make": "Fiat",
+    "model": "500",
+    "logo": "https://framerusercontent.com/images/ELPJflVOVAUOOEqZmPzcyDYmo.png",
+    "year": 2019,
+    "overview": "A turbocharged 1.4-liter four-cylinder is now the sole engine available; the car isn't lightning-quick, but its 135 ponies scoot it around town just fine. The last time we tested a 500 with this engine was in 2013 and it delivered a zero-to-60-mph time of 8.1 seconds. A six-speed automatic is optional, but those who prefer to shift for themselves can stay with the standard five-speed manual.\n \nDespite Fiat's claim that the 500's suspension is sport tuned, there's not much athleticism in this chassis. But no one buys a Fiat 500 for the performance—well, maybe those interested in the hot Abarth model do—as the diminutive city car is more of a fashion accessory.",
+    "body_type": "Hatchback",
+    "seats": 2,
+    "fuel_consumption": "12-18 mpg",
+    "engine": {
+      "type": "4-Cylinder",
+      "displacement": "1.4L",
+      "configuration": "I4 8V GDI",
+      "power_hp": 135
+    },
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#CFCFCF",
+      "interior": "#EBEBEB"
+    },
+    "primary_features": [
+      "17-inch aluminum wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/piP6vECWdDgFFQpiFmHNyzvDO0g.jpg",
+      "sub1": "https://framerusercontent.com/images/HGsi7BjXwHAYVf11AvwOHYzJo8.jpeg",
+      "sub2": "https://framerusercontent.com/images/TqNxJmgl4C80Quso07lFuYMNss.jpeg",
+      "sub3": "https://framerusercontent.com/images/OC9tPNJKsDOrahAT6eBrLVwiQA.jpeg",
+      "sub4": "https://framerusercontent.com/images/VE6hCt4PNz94ntTDfTX3bPRU2s.jpeg"
+    },
+    "price_per_day": 19,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Economy"
+  },
+
+  {
+    "id": "2023-fiat-500x",
+    "make": "Fiat",
+    "model": "500X",
+    "logo": "https://framerusercontent.com/images/ELPJflVOVAUOOEqZmPzcyDYmo.png",
+    "year": 2023,
+    "overview": "The 500X lineup has been trimmed to just two models this year. The rugged-looking Trekking and Trekking Plus have been discontinued, and the nautical-themed Yacht Club Capri took a bow after spending just one year in Fiat showrooms. That leaves the base Pop and the stylish Sport trims.\n \nAll Fiat 500X models come with a turbocharged 1.3-liter four-cylinder engine that makes 177 horsepower. A nine-speed automatic transmission and all-wheel drive are standard. The all-wheel-drive system has three driver-selectable settings to optimize traction in varying conditions. All models come with 17-inch aluminum wheels, except the Sport, which has standard 18s and available 19-inch wheels.",
+    "body_type": "Hatchback",
+    "seats": 5,
+    "fuel_consumption": "14-19 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "1.35L",
+      "configuration": "I4 16V GDI",
+      "power_hp": 177
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#0A0B4A",
+      "interior": "#EBEBEB"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/G6zaYAD4PwxKj78Nl5tSwNeAOlY.jpg",
+      "sub1": "https://framerusercontent.com/images/Nb1l2lGkMin6KFvaPmj7S9vwzAM.jpeg",
+      "sub2": "https://framerusercontent.com/images/TnbQ0GdYnvOcXCssjv7dbmj9v6U.jpg",
+      "sub3": "https://framerusercontent.com/images/OC9tPNJKsDOrahAT6eBrLVwiQA.jpeg",
+      "sub4": "https://framerusercontent.com/images/VE6hCt4PNz94ntTDfTX3bPRU2s.jpeg"
+    },
+    "price_per_day": 35,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Economy"
+  },
+
+  {
+    "id": "2021-bmw-228-gran-coupe",
+    "make": "BMW",
+    "model": "228 Gran Coupe",
+    "logo": "https://framerusercontent.com/images/1Foft6i4VQZRXfUB7Q9wB1LPsGE.png",
+    "year": 2021,
+    "overview": "The coupe and convertible come in 230i and M240i form. The 230i is powered by a 248-horsepower, turbocharged 2.0-liter four-cylinder engine, while the M240i gets a 335-hp, turbocharged 3.0-liter inline-six. Both versions are offered with rear- or all-wheel drive and an eight-speed automatic or six-speed manual transmission.\n \nThe Gran Coupe is powered by a turbocharged 2.0-liter four-cylinder that makes 228 hp in the 228i and 301 hp in the M235i. The Gran Coupe has standard all-wheel drive and an eight-speed automatic transmission. ",
+    "body_type": "Coupe",
+    "seats": 2,
+    "fuel_consumption": "24-28 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "2.0L",
+      "configuration": "I4 16V GDI Turbo",
+      "power_hp": 240
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#1532C2",
+      "interior": "#C2BA93"
+    },
+    "primary_features": [
+      "19‑inch wheels",
+      "LED headlights",
+      "Rain‑sensing windshield wipers",
+      "Push‑button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/jP8g93cVAgEf2pISorRCR8GS6VI.jpg?scale-down-to=1024",
+      "sub1": "https://framerusercontent.com/images/Ow4S3DAa9Z7auWigdHI1FPfI.jpeg",
+      "sub2": "https://framerusercontent.com/images/VPwljjC3QKSbcYyZOa04t9RnTWs.jpeg",
+      "sub3": "https://framerusercontent.com/images/d5ZJJqzl8bbcuZjpqwuzmSiQI.jpeg",
+      "sub4": "https://framerusercontent.com/images/gOgpzFDb7EAwgmo2F6Bx3rVUps.jpeg"
+    },
+    "price_per_day": 38,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Economy"
+  },
+
+  {
+    "id": "2022-honda-civic",
+    "make": "Honda",
+    "model": "Civic",
+    "logo": "https://framerusercontent.com/images/46yYOY3uraBcO7mRfyvpjUBrzI.png",
+    "year": 2022,
+    "overview": "We're impressed with the 2022 Honda Civic. While you might want to take a look at the refined Mazda 3, feature-packed Kia Forte or stylish new Hyundai Elantra, the Civic tops the class thanks to its fun-to-drive nature, roominess and high fuel efficiency. Check out our Expert Rating to get our full evaluation of the Civic's performance, roominess and more.\n \nFresh off naming the Honda Civic our Edmunds Top Rated Sedan for 2022, we added a Honda Civic Si to our long-term review fleet. That means rowing through the gears of our manual Civic Si for 20,000 miles and 12 months to see what we like and dislike about one of our favorite cars. Check out all of our experiences with the 2022 Honda Civic Si.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "20-23 mpg",
+    "engine": {
+      "type": "4-Cylinder",
+      "displacement": "2.0L",
+      "configuration": "I4 16V GDI",
+      "power_hp": 160
+    },
+    "transmission": "CVT",
+    "drivetrain": "FWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#3D0D0D",
+      "interior": "#2E2E2E"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/MZ89ZOLtz6kFX6Wx65nx6NpB26w.jpg",
+      "sub1": "https://framerusercontent.com/images/7C7wpcEkgI6rpfZC9zucx2lKmbQ.jpeg",
+      "sub2": "https://framerusercontent.com/images/9R4yc5N09fcf6iZQ7HvYtt8Ec8.jpeg",
+      "sub3": "https://framerusercontent.com/images/BeiyKcPOrcmOIfgDwjAGLpUYgas.webp",
+      "sub4": "https://framerusercontent.com/images/E5nKT6q3TRIHtCQpkXsmB1JfyM.webp"
+    },
+    "price_per_day": 30,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Economy"
+  },
+
+  {
+    "id": "2023-mercedes-benz-c300",
+    "make": "Mercedes-Benz",
+    "model": "C300",
+    "logo": "https://framerusercontent.com/images/acYQRQJKpXX6W2DcKL5wvww3c.png",
+    "year": 2023,
+    "overview": "The 2023 Mercedes-Benz C-Class welcomes a new addition to the lineup this year: the high-performance AMG C 43, which adds a dash of excitement to the C 300's focus on comfort and luxury. The changes for the new C 43, like the C 300, only apply to the sedan. Mercedes will continue to sell the coupe and convertible versions of the C-Class for the 2023 model year, but the two-doors are still based on the fourth-generation C-Class rather than the fifth-generation sedan.\n \nThe new AMG C 43 sedan drops two cylinders, giving it a turbocharged 2.0-liter four-cylinder instead of the V6 found in the previous model. It also gets a mild hybrid system like the C 300, but the emphasis here is on performance and not efficiency. ",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "25-30 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "2.0L",
+      "configuration": "I4 16V Turbo",
+      "power_hp": 255
+    },
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#6E401D"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/jeFEePVjpv7pxhPn0TCKLkfhozo.jpeg",
+      "sub1": "https://framerusercontent.com/images/ETRaryow0ewNnwSa20oE8XRGIE.jpeg",
+      "sub2": "https://framerusercontent.com/images/zbQ7JbWZIiIqmNxSBHfcAJkQ2oI.jpeg",
+      "sub3": "https://framerusercontent.com/images/lLrRX4sQFuF88y4tFqRKNMSs.jpeg",
+      "sub4": "https://framerusercontent.com/images/xCd8duqFEF1RHt3uCPVIcJtRVkA.jpeg"
+    },
+    "price_per_day": 45,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Economy"
+  },
+
+  {
+    "id": "2022-mercedes-benz-a220",
+    "make": "Mercedes-Benz",
+    "model": "A220",
+    "logo": "https://framerusercontent.com/images/acYQRQJKpXX6W2DcKL5wvww3c.png",
+    "year": 2022,
+    "overview": "The 2022 Mercedes-Benz A-Class enters the new model year without the AMG A 35 performance model. AMG's most affordable offering was discontinued for 2022. Its discontinuation is a sign of things to come for the A-Class because Mercedes doesn't plan on bringing back the last remaining A 220 model to the U.S. for 2023. There won't be a replacement, but Mercedes will still offer the comparable CLA-Class sedan and the little GLA SUV.\n \nWe think the A-Class is a compelling choice and have few gripes about it, but it competes with certain rivals that shouldn't be overlooked. The BMW 2 Series Gran Coupe, Audi A3 and Cadillac CT4 are other small entry-level luxury sedans worth considering. For a thorough review done by our test team, check out the Edmunds Expert Rating.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "23-29 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "2.0L",
+      "configuration": "I4 16V Turbo",
+      "power_hp": 190
+    },
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#2E2E2E"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/OnwjKYKYY3f5MqaKGVo8Pzw7Ow0.jpeg",
+      "sub1": "https://framerusercontent.com/images/ETRaryow0ewNnwSa20oE8XRGIE.jpeg",
+      "sub2": "https://framerusercontent.com/images/zbQ7JbWZIiIqmNxSBHfcAJkQ2oI.jpeg",
+      "sub3": "https://framerusercontent.com/images/lLrRX4sQFuF88y4tFqRKNMSs.jpeg",
+      "sub4": "https://framerusercontent.com/images/xCd8duqFEF1RHt3uCPVIcJtRVkA.jpeg"
+    },
+    "price_per_day": 40,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Economy"
+  },
+
+  {
+    "id": "2023-mercedes-benz-cla250",
+    "make": "Mercedes-Benz",
+    "model": "CLA250",
+    "logo": "https://framerusercontent.com/images/acYQRQJKpXX6W2DcKL5wvww3c.png",
+    "year": 2023,
+    "overview": "And it's hard to argue against the CLA's attainable price, especially when considering a fully loaded midsize sedan from a non-luxury brand costs about as much. Not only that, but Mercedes didn't skimp out on the CLA: The sedan has an elegant and high-tech-looking interior, provides plenty of comfort, and offers many of the same features found on larger, more expensive Mercedes models.\n \nIt's also fun to drive and boasts one of the best infotainment systems in its class. The CLA aces most categories, but it's not perfect. Its rear seats are cramped and its reasonable price can quickly climb with options. If you're hard set on purchasing the CLA you might want to wait a little longer for the 2024 model because Mercedes updated its design, engines and added more standard tech. ",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "24-28 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "2.0L",
+      "configuration": "I4 16V Turbo",
+      "power_hp": 190
+    },
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#737373"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/jFWVh5AS5TgalwiLMhvp11mOdm8.jpg",
+      "sub1": "https://framerusercontent.com/images/ETRaryow0ewNnwSa20oE8XRGIE.jpeg",
+      "sub2": "https://framerusercontent.com/images/zbQ7JbWZIiIqmNxSBHfcAJkQ2oI.jpeg",
+      "sub3": "https://framerusercontent.com/images/lLrRX4sQFuF88y4tFqRKNMSs.jpeg",
+      "sub4": "https://framerusercontent.com/images/xCd8duqFEF1RHt3uCPVIcJtRVkA.jpeg"
+    },
+    "price_per_day": 38,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Economy"
+  },
+
+  {
+    "id": "2019-subaru-forester-premium-plus",
+    "make": "Subaru",
+    "model": "Forester Premium Plus",
+    "logo": "https://framerusercontent.com/images/RU0GvIppk4OMfkN0ejVL8cbHxMM.png",
+    "year": 2019,
+    "overview": "That’s because the Forester has earned a reputation as one of the original and best mid-sized SUVs out there, morphing from all-wheel drive (AWD) station wagon to what it looks like today. Our test car was the 2.5i Premium, which sits high in the Forester line-up, but is hard to pick visually from the rest of the range, save for the 18-inch wheels (which the top grade 2.5i-S also wears).\n \nThe crab-claw tail-lights of the new car are the easiest way to spot the difference between it and the old model. But there are many other less obvious exterior differences, such as restyled rear and front bumpers, a new grille and headlights, plus the shape of the windows running down the side of the vehicle.",
+    "body_type": "Universal",
+    "seats": 5,
+    "fuel_consumption": "20-23 mpg",
+    "engine": {
+      "type": "4-Cylinder",
+      "displacement": "2.0L",
+      "configuration": "I4 8V GDI",
+      "power_hp": 220
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#4D4D4D"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/o13zrGZvPOvmuvsVvU6o3X87Hes.jpg",
+      "sub1": "https://framerusercontent.com/images/odrHnXjjOWMHJZY4hiLKoEGVu4s.jpeg",
+      "sub2": "https://framerusercontent.com/images/dsTc66HggxTQQanMAUFJVEvJn8.jpg",
+      "sub3": "https://framerusercontent.com/images/5DpkMpzaNGewnsNPuF0F1tT8GY.jpeg",
+      "sub4": "https://framerusercontent.com/images/LwMVpANXPokEZIeQquKyjKwKis.jpeg"
+    },
+    "price_per_day": 26,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Economy"
+  },
+
+  {
+    "id": "2023-toyota-corolla-hybrid",
+    "make": "Toyota",
+    "model": "Corolla Hybrid",
+    "logo": "https://framerusercontent.com/images/gZrufRm5z07Pm6SYrGFhQYK4T10.png",
+    "year": 2023,
+    "overview": "As the name suggests, the 2024 Toyota Corolla Hybrid is the electrified version of the best-selling vehicle of all time. It's a bit slower than its gas-only sibling, but the EPA also estimates the Corolla Hybrid gets 65% better fuel economy in city driving. In our eyes, the tremendous improvement in efficiency is worth the Hybrid's mild hit to acceleration and slightly higher price tag. \n \n Though it launched in just one modestly equipped trim level in 2020, the Corolla Hybrid lineup has grown over time to include more luxe versions. Last year brought the most significant enhancements; in addition to the appearance and tech upgrades that all 2023 Corollas enjoyed, the Hybrid also added the sporty SE and upscale XLE variants. The expansion continues this year with the Nightshade edition. The Corolla Hybrid Nightshade is primarily an appearance package that adds bronze wheels and black-painted exterior elements — including a blacked-out mesh front grille, mirror caps and lip spoiler — to the SE model. The Corolla Hybrid Nightshade is offered in both front- and all-wheel drive powertrains.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "10-13 mpg",
+    "engine": {
+      "type": "4-Cylinder",
+      "displacement": "1.8L",
+      "configuration": "I4 16V Hybrid",
+      "power_hp": 190
+    },
+    "transmission": "CVT",
+    "drivetrain": "FWD",
+    "fuel_type": "Hybrid",
+    "colors": {
+      "exterior": "#B8B8B8",
+      "interior": "#292929"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/V6yTfrS67bxEGVtrgomFIprlOtw.jpg",
+      "sub1": "https://framerusercontent.com/images/hcaTgFdpJ4XRrXPueCYlcUZM.webp",
+      "sub2": "https://framerusercontent.com/images/NvN9B0HwkXjLEDPLIEg6YOHVAg.webp",
+      "sub3": "https://framerusercontent.com/images/4a4uKa580u997hNpJAr9WeABr4w.webp",
+      "sub4": "https://framerusercontent.com/images/mciRmsuChzcsJcB28jNQn2U4Qg.webp"
+    },
+    "price_per_day": 20,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Economy"
+  },
+
+  {
+    "id": "2022-bugatti-chiron-sport",
+    "make": "Bugatti",
+    "model": "Chiron Sport",
+    "logo": "https://framerusercontent.com/images/l4CABVddTvU0rqO74NgDPsRc8.png",
+    "year": 2022,
+    "overview": "I've never felt the inclination to shave before driving a car, but here I am, two hours away from driving the 2022 Bugatti Chiron Super Sport, and there's shaving cream on my face. My favorite pants, shirt, and my good pair of sneakers are also laid out. It feels like I'm getting ready for a first date. Knowing you're about to climb behind the wheel of a one-of-500-in-the-world car with a price tag equivalent to a mansion does some very weird things to your psyche.\n \nI'm so thrown off because I am not sure what to expect. Nothing else I've driven can go over 250 mph, or had a seven digit price tag. Or had 16 cylinders pouring out 100 horsepower each. A quick two-hour stint behind the wheel reveals the Chiron Super Sport's dual nature, both as an overqualified grand tourer and a comically fast hypercar.",
+    "body_type": "Coupe",
+    "seats": 2,
+    "fuel_consumption": "12-18 mpg",
+    "engine": {
+      "type": "12-Cylinder",
+      "displacement": "6.5L",
+      "configuration": "V12 48V DOHC",
+      "power_hp": 839
+    },
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#BABABA",
+      "interior": "#5E2507"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/efUR0jJXRc1utjFQcZR0R7d6rg.jpg",
+      "sub1": "https://framerusercontent.com/images/sAsgZ7AWES0vic0tboT4pL5qaA.jpeg",
+      "sub2": "https://framerusercontent.com/images/atW70IAdEzPswuFsWZ2NDu9MaM.jpg",
+      "sub3": "https://framerusercontent.com/images/UtUfNJVBmv4Exq4tVngZwhLGWc.jpg",
+      "sub4": "https://framerusercontent.com/images/0isrnWUS0Mr8jIwvRokQXKgI9h4.jpeg"
+    },
+    "price_per_day": 1750,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Exotic"
+  },
+
+  {
+    "id": "2023-chevy-camaro-zl1",
+    "make": "Chevy",
+    "model": "Camaro ZL1",
+    "logo": "https://framerusercontent.com/images/qqEvSQu9X86G1LMvcWJJqHSlMek.png",
+    "year": 2023,
+    "overview": "The Camaro, like it's done before, is vanishing. According to Chevy, 2024 will be the last model year for the Camaro. To celebrate its final year, a Collector's Edition package will be available on RS, SS and a limited number of ZL1 Camaros. Few details have been announced yet, but the Collector's Edition package looks to be an appearance package that honors the first-generation Camaro.\n \nThe real news is that it will have to contend with a redesigned gas-powered Mustang, which makes more power than the Camaro's standard V8 and rides on a refined version of the existing platform. But let's not forget that the Camaro has, for years, enjoyed both a handling and in some cases a power advantage over the equivalent Mustang. But since 2016 those benefits have come with packaging downsides — visibility befitting a tank and tiny passenger and cargo areas — that made some buyers choose the Mustang or the Challenger instead. We dive into all the details in our Expert Rating below.",
+    "body_type": "Coupe",
+    "seats": 2,
+    "fuel_consumption": "25-30 mpg",
+    "engine": {
+      "type": "8-Cylinder",
+      "displacement": "6.2L",
+      "configuration": "V8 32V DOHC",
+      "power_hp": 502
+    },
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#BF7C00"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/X6voWtJKlCaL3QvCqLSbZGrQOrw.webp",
+      "sub1": "https://framerusercontent.com/images/raoxB8HlwknhuotgVWnDrfvCo.webp",
+      "sub2": "https://framerusercontent.com/images/TfDzwHZbWH8u14JIoWwYkz85O6s.webp",
+      "sub3": "https://framerusercontent.com/images/Qore7ZK2LZBvIFdkyayRMfJ3Q.jpg",
+      "sub4": "https://framerusercontent.com/images/3ootBPYLMgmEMVzSy644sMaRzgY.webp"
+    },
+    "price_per_day": 490,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Exotic"
+  },
+
+  {
+    "id": "2015-ferrari-458-italia",
+    "make": "Ferrari",
+    "model": "458 Italia",
+    "logo": "https://framerusercontent.com/images/4X8vBgVyxbo051UaQH6Wfwedtuo.png",
+    "year": 2015,
+    "overview": "The Camaro, like it's done before, is vanishing. According to Chevy, 2024 will be the last model year for the Camaro. To celebrate its final year, a Collector's Edition package will be available on RS, SS and a limited number of ZL1 Camaros. Few details have been announced yet, but the Collector's Edition package looks to be an appearance package that honors the first-generation Camaro.\n \nThe GT500's breadth of capabilities make it hard to compare to just one class of rivals. Among muscle cars, the Dodge Challenger Hellcat Redeye is an interesting option. It makes more power and has a bigger rear seat, but those come at the expense of precise and sporty handling.",
+    "body_type": "Coupe",
+    "seats": 2,
+    "fuel_consumption": "24-28 mpg",
+    "engine": {
+      "type": "8-Cylinder Turbo",
+      "displacement": "4.5L",
+      "configuration": "V8 32V DOHC",
+      "power_hp": 562
+    },
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "fuel_type": "Diesel",
+    "colors": {
+      "exterior": "#700D0D",
+      "interior": "#5E2B2B"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/DvDOe8zFrD3FdkSmYIJMKbX4.jpeg",
+      "sub1": "https://framerusercontent.com/images/m0QG1lMK1nc4z5numHLFAxsGY.jpeg",
+      "sub2": "https://framerusercontent.com/images/DETEwpFDgdmrOlN5ZkD6RQ5Ig9c.jpg",
+      "sub3": "https://framerusercontent.com/images/5JYzmBOwMXLPMFfQkYIluMN2dIY.webp",
+      "sub4": "https://framerusercontent.com/images/QqOEpYCk9b3PoGrg5AdLqMKcUU.jpg"
+    },
+    "price_per_day": 360,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Exotic"
+  },
+
+  {
+    "id": "2019-ferrari-488-gtb",
+    "make": "Ferrari",
+    "model": "488 GTB",
+    "logo": "https://framerusercontent.com/images/4X8vBgVyxbo051UaQH6Wfwedtuo.png",
+    "year": 2019,
+    "overview": "When Ferrari announced it was replacing the outgoing 458 with the then-new 488 for 2016, many enthusiasts scoffed at the idea of a turbocharged Ferrari, or at least one that's not named F40. But it's hard to argue with 661 horsepower, and even harder when Ferrari tames that power with its near-perfect set of stability and traction control systems. In short, the 488 GTB has succeeded in surpassing the legendary performance of the 458 while remaining comfortable and easy to drive as almost any normal car. It's more than a little amazing.\n \nFerrari's even upping the ante for 2019 with the new 488 Pista. It comes with a revised engine good for 710 horsepower plus other changes that reduce the car's weight by about 175 pounds. Revised aerodynamics also give the Pista greater downforce at high speed.",
+    "body_type": "Coupe",
+    "seats": 2,
+    "fuel_consumption": "14-19 mpg",
+    "engine": {
+      "type": "8-Cylinder Turbo",
+      "displacement": "4.5L",
+      "configuration": "V8 32V DOHC",
+      "power_hp": 562
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#9C1937",
+      "interior": "#403D32"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/PjBjWaK8s95i4GosqlSfnPiPmZw.jpeg",
+      "sub1": "https://framerusercontent.com/images/cmEHAMcBOrjOplDVxZDuknKZcdY.jpeg",
+      "sub2": "https://framerusercontent.com/images/DETEwpFDgdmrOlN5ZkD6RQ5Ig9c.jpg",
+      "sub3": "https://framerusercontent.com/images/5JYzmBOwMXLPMFfQkYIluMN2dIY.webp",
+      "sub4": "https://framerusercontent.com/images/QqOEpYCk9b3PoGrg5AdLqMKcUU.jpg"
+    },
+    "price_per_day": 550,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Exotic"
+  },
+
+  {
+    "id": "2022-ford-shelby-gt500",
+    "make": "Ford",
+    "model": "Shelby GT500",
+    "logo": "https://framerusercontent.com/images/nfCjEAEUkWGl93pD79XFR79tzjY.png",
+    "year": 2022,
+    "overview": "With astonishing power from its supercharged V8, massive brakes and tires, aerodynamic body trim and adaptive suspension, the 2022 Ford Shelby GT500 is one of the fastest cars on the road at any price. It can dominate your local weekend race day all day long — assuming you've got tires and gas money to spare — and then carry you comfortably back home on the highway when you're done.\n \nThe GT500's breadth of capabilities make it hard to compare to just one class of rivals. Among muscle cars, the Dodge Challenger Hellcat Redeye is an interesting option. It makes more power and has a bigger rear seat, but those come at the expense of precise and sporty handling.",
+    "body_type": "Coupe",
+    "seats": 2,
+    "fuel_consumption": "23-29 mpg",
+    "engine": {
+      "type": "8-Cylinder Turbo",
+      "displacement": "5.2L",
+      "configuration": "V8 32V DOHC Turbo",
+      "power_hp": 750
+    },
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#1230A6",
+      "interior": "#D96200"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/4AGuWIGCGuAROQ0qwGUZB3JAuzM.jpeg",
+      "sub1": "https://framerusercontent.com/images/8AiDpWdwoaFJ7GJuP9sFFeKQc.jpeg",
+      "sub2": "https://framerusercontent.com/images/IKlA5ERX91aXNckOSdOAiMYp2bI.jpeg",
+      "sub3": "https://framerusercontent.com/images/E3GD3zS1PiMWYCRs3Ydv26qLDnY.jpeg",
+      "sub4": "https://framerusercontent.com/images/NJw22w5HZkcfBbCi3gzrDX4lFI.webp"
+    },
+    "price_per_day": 550,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Exotic"
+  },
+
+  {
+    "id": "2022-lamborghini-aventador",
+    "make": "Lamborghini",
+    "model": "Aventador",
+    "logo": "https://framerusercontent.com/images/P79ClUxpF7Xckl6HNBa3aE33VY0.png",
+    "year": 2022,
+    "overview": "In production for over a decade, the Lamborghini Aventador has reached the end of its long and winding road. To celebrate the model's success, the 2022 Aventador comes only in new LP 780-4 Ultimae specification, its sonorous 6.5-liter V12 engine now equipped with titanium intake valves to make the Ultimae the most powerful example of the supercar ever made.\n \nGiven the mere 10-horsepower increase over last year's Aventador SVJ (Super Veloce Jota). But among supercar owners, bragging rights count, and buyers who scoop up examples of the 2022 Aventador from the final run of 350 coupes and 250 convertibles will be able to tell anyone interested enough to listen that their limited-edition car has the most powerful naturally aspirated standard-production V12 in Lamborghini history.",
+    "body_type": "Coupe",
+    "seats": 2,
+    "fuel_consumption": "20-23 mpg",
+    "engine": {
+      "type": "12-Cylinder",
+      "displacement": "6.5L",
+      "configuration": "V12 48V DOHC",
+      "power_hp": 769
+    },
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#C48B0E",
+      "interior": "#871212"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/lKHZedcbgMTdiO4hB1s5mkFF0w.jpg",
+      "sub1": "https://framerusercontent.com/images/2GRtQaYTGefe6LOIpzI60rTFATE.jpg",
+      "sub2": "https://framerusercontent.com/images/V5xAwrdUzxpXNjk44qT3NxoTy0.jpg",
+      "sub3": "https://framerusercontent.com/images/ZeEqxVUcvsrXbhgcfefmUL1YRUk.jpeg",
+      "sub4": "https://framerusercontent.com/images/kvn7v7DxE8JYFRu2W31OrCd2Lng.jpeg"
+    },
+    "price_per_day": 840,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Exotic"
+  },
+
+  {
+    "id": "2023-lamborghini-huracan-evo",
+    "make": "Lamborghini",
+    "model": "Huracan EVO",
+    "logo": "https://framerusercontent.com/images/P79ClUxpF7Xckl6HNBa3aE33VY0.png",
+    "year": 2023,
+    "overview": "It's hard to believe that Lamborghini's entry-level (and we use that term loosely) sports car, the Huracan, has been around for nearly a decade. Despite nearing 10 years old, the car still delivers true supercar performance and feels fresh with Lamborghini providing a steady stream of updates and new variants.\n \nThe 2023 Huracan is no exception, adding two wildly different variants to the mix. The Tecnica combines the best parts of the Huracan Evo and last year's addition, the bonkers Huracan STO. While the STO was a track-focused vehicle that borrowed liberally from the Huracan race car, the Tecnica is more street-oriented and tamer in styling — as much as a Lamborghini can ever be tame. The Tecnica is rear-wheel-drive only like the STO and uses the same naturally aspirated 5.2-liter V10 that makes 631 horsepower and 417 lb-ft of torque.",
+    "body_type": "Coupe",
+    "seats": 2,
+    "fuel_consumption": "23-29 mpg",
+    "engine": {
+      "type": "10-Cylinder",
+      "displacement": "5.2L",
+      "configuration": "V12 40V DOHC",
+      "power_hp": 600
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#CCCCCC",
+      "interior": "#826335"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/IxKaVAq6rCVk99GzPqJIfwoq0.jpg",
+      "sub1": "https://framerusercontent.com/images/24pEuLITfLiWYSTbmp9YhrGjw.jpeg",
+      "sub2": "https://framerusercontent.com/images/n3zSFxoMYC4TaseS4NP8o0cbFw.jpeg",
+      "sub3": "https://framerusercontent.com/images/T9wRklSYkcOUxebfBHutZMTFrY.jpg",
+      "sub4": "https://framerusercontent.com/images/kvn7v7DxE8JYFRu2W31OrCd2Lng.jpeg"
+    },
+    "price_per_day": 490,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Exotic"
+  },
+
+  {
+    "id": "2023-porsche-911-gt3",
+    "make": "Porsche",
+    "model": "911 GT3",
+    "logo": "https://framerusercontent.com/images/4wHGMD0YkVlhWLci3ud1QwK0iiQ.png",
+    "year": 2023,
+    "overview": "Automakers like to claim that their car, truck or SUV is the best, but in most cases that claim falls short. But when it comes to the Porsche 911, calling it the best luxury sports car couldn't be more accurate. Other sports cars are more luxurious, offer better technology and are more affordable, but the 911 does the sports car part the best. It's a driving enthusiast's dream come true. In today's new car market, few cars feel like they are an extension of the driver. If the 911 could talk, it would urge you to drive it harder and faster, and you'd gladly comply thanks to the confidence it instills in you.\n \nThere's a version of the 911 for just about everyone. You have a choice of a coupe, a convertible or a Targa with a power-retractable roof panel. Once you decide on the body style, there's a long list of trims to choose from. The base Carrera and Carrera S models are great for those who want a comfortable and quick daily driver.",
+    "body_type": "Coupe",
+    "seats": 2,
+    "fuel_consumption": "14-19 mpg",
+    "engine": {
+      "type": "6-Cylinder",
+      "displacement": "4.0L",
+      "configuration": "f4 24V DOHC",
+      "power_hp": 502
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#B0B0B0",
+      "interior": "#5E5E5E"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/aTsnevnGs3pRn2LKTILIDZO4.jpg",
+      "sub1": "https://framerusercontent.com/images/7ABYBbkLn6buEHQzoDdcGRcqclI.jpeg",
+      "sub2": "https://framerusercontent.com/images/EJrpsYnIk4MyI5nqMhouAqVH8.jpeg",
+      "sub3": "https://framerusercontent.com/images/9gFbB4xU2plG91Pi041tovoqCo.jpeg",
+      "sub4": "https://framerusercontent.com/images/vkP81b7DuKOJ6ZLkyh6MNEcme4.jpeg"
+    },
+    "price_per_day": 420,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Exotic"
+  },
+
+  {
+    "id": "2023-porsche-taycan-cross-turismo",
+    "make": "Porsche",
+    "model": "Taycan Cross Turismo",
+    "logo": "https://framerusercontent.com/images/4wHGMD0YkVlhWLci3ud1QwK0iiQ.png",
+    "year": 2023,
+    "overview": "Porsche's Taycan was the company's first fully electric vehicle when it debuted for the 2020 model year, and it was clear from the get-go that the company had done its homework. This wasn't some sort of half-baked release. Rather, the Taycan was everything we expected from the brand: athletic, comfortable and highly customizable. It's so good that you might have a hard time deciding between the legendary 911 or a Taycan. The Taycan also receives a few updates for 2023.\n\nPorsche says it has given the touchscreen a new menu layout, and we hope that this makes it a little easier to use than in prior models. Wireless connectivity for Android Auto smartphone integration is new too. Porsche has also tinkered with the way the car utilizes its battery pack and mechanical hardware to slightly increase range and efficiency.",
+    "body_type": "Coupe",
+    "seats": 2,
+    "fuel_consumption": "Electro",
+    "engine": {
+      "type": "Electric",
+      "displacement": "Electric 94 kW,",
+      "configuration": " 320 V",
+      "power_hp": 469
+    },
+    "transmission": "Direct Drive",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#ABABAB",
+      "interior": "#D1C5C5"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/PDJ9tPTFmM1lktmXsrk47vNmv0.jpg",
+      "sub1": "https://framerusercontent.com/images/9gFbB4xU2plG91Pi041tovoqCo.jpeg",
+      "sub2": "https://framerusercontent.com/images/UBY5yI1K4kPMb2bZNVaxP9A7a0.jpg",
+      "sub3": "https://framerusercontent.com/images/xp0q8tHxKPzhWV0TyHBawIyyF0.jpg",
+      "sub4": "https://framerusercontent.com/images/vkP81b7DuKOJ6ZLkyh6MNEcme4.jpeg"
+    },
+    "price_per_day": 400,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Exotic"
+  },
+
+  {
+    "id": "2022-acura-integra-type-s",
+    "make": "Acura",
+    "model": "Integra Type S",
+    "logo": "https://framerusercontent.com/images/24K7v0HTWIawa0gzMNAsQzkgs.png",
+    "year": 2022,
+    "overview": "The 2024 Integra is Acura's smallest and least expensive model. Though this small sedan is based largely on the current Honda Civic, it adds a load of extra features to help it come across as a more premium vehicle. Upgraded audio systems, a number of standard driver assist systems, and a roomy cabin for such a small car make it a solid choice for an upscale daily driver that won't wreck your monthly budget.\n \nOur biggest complaint with the Integra when it debuted last year was its performance, of lack thereof. Luckily, Acura is fixing that in 2024 with the introduction of the new Integra Type S. The 2024 Acura Integra Type S is here to fill that gap and bring some real performance credentials to the Integra lineup.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "24-28 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "2.0L",
+      "configuration": "I4 16V DOHC Turbo",
+      "power_hp": 320
+    },
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#D6D6D6",
+      "interior": "#EBEBEB"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/KcglgYZiPMZ7GRarnBAXKqPE60.jpg",
+      "sub1": "https://framerusercontent.com/images/4S6QvXJTHgxxZyVHdXiF4xdKo.jpg",
+      "sub2": "https://framerusercontent.com/images/Aeaf4in2gYCY2KWNLFy8Lz4NOeY.webp",
+      "sub3": "https://framerusercontent.com/images/UGw6X0SpIsweWFOso2841FMwu8.webp",
+      "sub4": "https://framerusercontent.com/images/iOb0j3pl1pc2nBCqKHFD6sE.webp"
+    },
+    "price_per_day": 210,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Sport"
+  },
+
+  {
+    "id": "2023-audi-s4-premium",
+    "make": "Audi",
+    "model": "S4 Premium",
+    "logo": "https://framerusercontent.com/images/uD70C56jtqMXWInWYY9Uho9ogZo.png",
+    "year": 2023,
+    "overview": "The nimble Audi S4 carries over into 2023 largely unchanged, save for a few cosmetic options including now-standard 19-inch wheels and two new paint finishes. S is for sporty; the S4 is the performance version of Audi's A4 sedan. Its 349-horsepower V6 engine makes it one of the quickest sedans in its class, blazing a zippy trail between 0 and 60 mph in 4.3 seconds in Edmunds' testing.\n \nInside, the S4's cabin is the automotive equivalent of Zurich: efficient, clean, and replete with modern comfort and amenities. Stainless steel caps adorn the pedals, the no-nonsense tri-spoke steering wheel is suitably stylish, and the illuminated doorsills evoke an executive's expensive office chair. The S4's smooth ride and comfortable front seats build out the appeal of this dual-purpose sedan.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "23-29 mpg",
+    "engine": {
+      "type": "6-Cylinder",
+      "displacement": "3.0L",
+      "configuration": "V6 32V DOHC",
+      "power_hp": 350
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#C2C2C2",
+      "interior": "#292929"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/D9pm4z0tPUUhbMcB8tTazjkYI.jpg",
+      "sub1": "https://framerusercontent.com/images/k2qcHDTul7zLQzbgPelSThkxyeY.jpeg",
+      "sub2": "https://framerusercontent.com/images/kcLOpTyLQuyuoXlmfC3xzfvoPs.jpeg",
+      "sub3": "https://framerusercontent.com/images/0kKc3Uw5Ccg7XWKjMhfonMJgTs.jpeg",
+      "sub4": "https://framerusercontent.com/images/8fPiLumfmsuk9ln9NO6drNF7dsw.jpg"
+    },
+    "price_per_day": 260,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Sport"
+  },
+
+  {
+    "id": "2023-audi-rs-6-performance",
+    "make": "Audi",
+    "model": "RS 6 Performance",
+    "logo": "https://framerusercontent.com/images/uD70C56jtqMXWInWYY9Uho9ogZo.png",
+    "year": 2023,
+    "overview": "Audi introduced the RS 6 Avant wagon for 2020 to compete with the Mercedes-AMG E 63 wagon and Porsche Panamera Turbo S Sport Turismo, though the Porsche is the only one of the two now left standing. The RS 6's appeal is easy to see: This is a high-performance all-wheel-drive wagon that you can use to haul all your stuff, plus five occupants, or that you can let rip and get from 0 to 60 mph in just 3.3 seconds.\n \nThe updated 2024 RS 6 does all of the luxury things right, too, offering a quiet, refined interior with great tech and driver aids. With the market dwindling, buying an RS 6 has never been a better idea. For 2024, Audi offers just one trim, the Performance. No one asked Audi to give the RS 6 more power, but here we are anyway. The RS 6 Performance's turbocharged V8 makes 30 more horsepower this year, which is now cranking out 621 horsepower and 627 lb-ft of torque.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "12-18 mpg",
+    "engine": {
+      "type": "8-Cylinder",
+      "displacement": "4.0L",
+      "configuration": "V8 Mild hybrid",
+      "power_hp": 620
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#C7C7C7",
+      "interior": "#470000"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/SWDMln7jz5zFBYW4pFnXbRBJ4.jpg",
+      "sub1": "https://framerusercontent.com/images/RFuoF3PYRHKMZdAvu1IgqDFfQc.jpg",
+      "sub2": "https://framerusercontent.com/images/k2qcHDTul7zLQzbgPelSThkxyeY.jpeg",
+      "sub3": "https://framerusercontent.com/images/8fPiLumfmsuk9ln9NO6drNF7dsw.jpg",
+      "sub4": "https://framerusercontent.com/images/0kKc3Uw5Ccg7XWKjMhfonMJgTs.jpeg"
+    },
+    "price_per_day": 290,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Sport"
+  },
+
+  {
+    "id": "2023-bmw-m3",
+    "make": "BMW",
+    "model": "M3",
+    "logo": "https://framerusercontent.com/images/1Foft6i4VQZRXfUB7Q9wB1LPsGE.png",
+    "year": 2023,
+    "overview": "The BMW M3 is the long-running and very popular performance variant of the 3 Series sedan. For decades, it's been the go-to car for many automotive enthusiasts and is known for setting the benchmark for compact sport sedans. The M3's excellent mix of power, performance and practicality makes it a great choice if you're looking for an outrageously fun family car or a spacious, track-ready weekend warrior.\n \nFor 2023, BMW is introducing a M3 commemorative version called the Edition 50 Jahre BMW M. Limited to only 500 cars for North America, the Edition 50 Jahre (“jahre” means “years” in German) comes in one of five special exterior paint colors used on previous-generation M3 models. There's Interlagos Blue from the third-generation model, for example, or Lime Rock Park Edition from the fourth generation. These Edition 50 Jahre M3s also have special wheels, extra exterior carbon-fiber trim and a few other minor interior enhancements.",
+    "body_type": "Sedan",
+    "seats": 4,
+    "fuel_consumption": "12-18 mpg",
+    "engine": {
+      "type": "6-Cylinder Turbo",
+      "displacement": "3.0L",
+      "configuration": "I6 16V DOHC Turbo",
+      "power_hp": 473
+    },
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#777980",
+      "interior": "#D95F5F"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/V24325xCIJPCsOG4IgRvZ2IAME.jpeg",
+      "sub1": "https://framerusercontent.com/images/hLFAZMzTMV8422buQhYMB7I.jpg",
+      "sub2": "https://framerusercontent.com/images/VPwljjC3QKSbcYyZOa04t9RnTWs.jpeg",
+      "sub3": "https://framerusercontent.com/images/gOgpzFDb7EAwgmo2F6Bx3rVUps.jpeg",
+      "sub4": "https://framerusercontent.com/images/d5ZJJqzl8bbcuZjpqwuzmSiQI.jpeg"
+    },
+    "price_per_day": 180,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Sport"
+  },
+
+  {
+    "id": "2023-bmw-alpina-b8-coupe",
+    "make": "BMW",
+    "model": "ALPINA B8 Coupe",
+    "logo": "https://framerusercontent.com/images/1Foft6i4VQZRXfUB7Q9wB1LPsGE.png",
+    "year": 2023,
+    "overview": "Money can't buy happiness, but it sure can guarantee exclusivity, and that's what you get when you park a 2023 BMW Alpina B8 Gran Coupe in your multi-car garage. Based on the already scarce M8 Competition Gran Coupe, the Alpina features exclusive powertrain and suspension tuning, design elements and interior detailing. The goal is a greater emphasis on luxury and comfort with little loss of performance.\n \nThe relationship between Alpina and BMW dates to the early 1960s, and BMW recently bought the company, which has been small-batch tuning the automaker's products for decades. Traditionally, Alpina adds power, enhances the ride and handling, and adds exclusive cosmetic details such as the brand's signature turbine-spoke wheels to craft limited-production vehicles coveted by collectors.",
+    "body_type": "Coupe",
+    "seats": 2,
+    "fuel_consumption": "14-19 mpg",
+    "engine": {
+      "type": "8-Cylinder Turbo",
+      "displacement": "4.4L",
+      "configuration": "V8 32V DOHC Turbo",
+      "power_hp": 612
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#696969",
+      "interior": "#0F2440"
+    },
+    "primary_features": [
+      "20-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/OyniIa5w0U4ZGQLuRAd4kQ3oiI.jpeg",
+      "sub1": "https://framerusercontent.com/images/VPwljjC3QKSbcYyZOa04t9RnTWs.jpeg",
+      "sub2": "https://framerusercontent.com/images/d5ZJJqzl8bbcuZjpqwuzmSiQI.jpeg",
+      "sub3": "https://framerusercontent.com/images/vUh2QnQFV4EGVa832J95JkSP0A.jpeg",
+      "sub4": "https://framerusercontent.com/images/gOgpzFDb7EAwgmo2F6Bx3rVUps.jpeg"
+    },
+    "price_per_day": 190,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Sport"
+  },
+
+  {
+    "id": "2023-cadillac-ct5-v-blackwing",
+    "make": "Cadillac",
+    "model": "CT5-V Blackwing",
+    "logo": "https://framerusercontent.com/images/pVJTiqM15mc2QkfmxmI86UxLs.png",
+    "year": 2023,
+    "overview": "In the frenzy of automakers twisting the SUV into ever more shapes and sizes, the humble four-door sedan continues its slow fade into obscurity. At least among American brands, that is. Today you can count domestic sedans on one hand, and two of them belong to Cadillac. But the 2023 Cadillac CT5-V Blackwing is one high-performance sedan that will not go gently.\n \nThe Blackwing is the ultimate upgrade on the regular CT5. Its supercharged 6.2-liter V8 thumps out 668 horsepower and 659 lb-ft of torque, all sent to the rear wheels via a standard six-speed manual transmission. (A 10-speed automatic is optional.) Output like this might evoke bulky body-builder comparisons, but the Blackwing also handles with deft precision. The standard adaptive suspension keeps it neutral in corners, with well-weighted steering and traction control that allow the driver to have fun.",
+    "body_type": "Sedan",
+    "seats": 4,
+    "fuel_consumption": "25-30 mpg",
+    "engine": {
+      "type": "8-Cylinder",
+      "displacement": "6.2L",
+      "configuration": "V8 32V DOHC",
+      "power_hp": 668
+    },
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#757575",
+      "interior": "#141414"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/zsDJp0u91pkNkQMZFfKZUSnSfc.webp",
+      "sub1": "https://framerusercontent.com/images/2niB3x2ZpY2m6jtS8XLBQEa5PZ0.webp",
+      "sub2": "https://framerusercontent.com/images/jGL7a20IW9lP8xzGav6o12ZQ.jpeg",
+      "sub3": "https://framerusercontent.com/images/mcvyDzPl4tbadGEogMr6eLyoQQ.webp",
+      "sub4": "https://framerusercontent.com/images/NsCXvQaJ2Ws9B3QE7SD8DA8SCI.webp"
+    },
+    "price_per_day": 150,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Sport"
+  },
+
+  {
+    "id": "2023-honda-civic-type-r",
+    "make": "Honda",
+    "model": "Civic Type R",
+    "logo": "https://framerusercontent.com/images/46yYOY3uraBcO7mRfyvpjUBrzI.png",
+    "year": 2023,
+    "overview": "We got our first taste of the Type R in the U.S. with the last-generation Civic in 2017 even though prior models were sold overseas since 1997. This latest Type R adopts the current Civic hatchback's styling as a foundation, making it less flashy and garish than the previous generation. Under the hood is the same turbocharged four-cylinder engine, but this time around it makes 315 horsepower and 310 lb-ft of torque. That's a marginal increase of 9 horsepower and 15 lb-ft of torque over the previous Type R.\n \nBut there are subtle improvements, including an updated transmission that has a lighter flywheel and revised gate shift pattern and shift lever for cleaner and snappier shifts. Combine that powertrain with a sport-tuned suspension and Brembo brakes and you've got a pretty serious performance car. The Civic Type R is incredibly fun to drive on a racetrack or your favorite twisty road, yet it's relatively affordable and easy to live with as a daily driver.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "24-28 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "2.0L",
+      "configuration": "I4 16V DOHC",
+      "power_hp": 315
+    },
+    "transmission": "manual",
+    "drivetrain": "FWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#3D27A1",
+      "interior": "#3B3235"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/36wklI6KWM8041CQsHkS1AslXU.jpg",
+      "sub1": "https://framerusercontent.com/images/BeiyKcPOrcmOIfgDwjAGLpUYgas.webp",
+      "sub2": "https://framerusercontent.com/images/SRPMHgnXtlvyWCHvdwmmOpfXhmc.jpg",
+      "sub3": "https://framerusercontent.com/images/UGw6X0SpIsweWFOso2841FMwu8.webp",
+      "sub4": "https://framerusercontent.com/images/E5nKT6q3TRIHtCQpkXsmB1JfyM.webp"
+    },
+    "price_per_day": 120,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Sport"
+  },
+
+  {
+    "id": "2023-mercedes-benz-c43-amg",
+    "make": "Mercedes-Benz",
+    "model": "C43 AMG",
+    "logo": "https://framerusercontent.com/images/acYQRQJKpXX6W2DcKL5wvww3c.png",
+    "year": 2023,
+    "overview": "The 2023 Mercedes-Benz C-Class welcomes a new addition to the lineup this year: the high-performance AMG C 43, which adds a dash of excitement to the C 300's focus on comfort and luxury. The changes for the new C 43, like the C 300, only apply to the sedan. Mercedes will continue to sell the coupe and convertible versions of the C-Class for the 2023 model year, but the two-doors are still based on the fourth-generation C-Class rather than the fifth-generation sedan.\n \nThe new AMG C 43 sedan drops two cylinders, giving it a turbocharged 2.0-liter four-cylinder instead of the V6 found in the previous model. It also gets a mild hybrid system like the C 300, but the emphasis here is on performance and not efficiency. Total system output is 402 horsepower and 369 lb-feet of torque, with the starter-generator motor able to kick in a boost of 13 extra horsepower on demand. It sprints from 0 to 60 mph in just 4.6 seconds.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "20-23 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "2.0L",
+      "configuration": "I4 16V DOHC Turbo",
+      "power_hp": 402
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#FF0000"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/QQs9hLendXj2qFszj5vCB1TUd74.jpg",
+      "sub1": "https://framerusercontent.com/images/zbQ7JbWZIiIqmNxSBHfcAJkQ2oI.jpeg",
+      "sub2": "https://framerusercontent.com/images/ETRaryow0ewNnwSa20oE8XRGIE.jpeg",
+      "sub3": "https://framerusercontent.com/images/lLrRX4sQFuF88y4tFqRKNMSs.jpeg",
+      "sub4": "https://framerusercontent.com/images/xCd8duqFEF1RHt3uCPVIcJtRVkA.jpeg"
+    },
+    "price_per_day": 160,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Sport"
+  },
+
+  {
+    "id": "2023-subaru-wrx-gt",
+    "make": "Subaru",
+    "model": "WRX GT",
+    "logo": "https://framerusercontent.com/images/RU0GvIppk4OMfkN0ejVL8cbHxMM.png",
+    "year": 2023,
+    "overview": "Subaru leans harder into its rally-racing heritage with the latest WRX. Redesigned for 2022, the fifth-generation WRX adopts body cladding worthy of an SUV to protect the paint against nicks and chips while upgrading performance with a larger and more powerful engine and an available adaptive suspension. The car also adopts the latest in Subaru infotainment, driver assist and collision avoidance technology. However, the safety features are largely restricted to WRX models equipped with the optional continuously variable automatic transmission (CVT), which Subaru calls the Performance Transmission.\n \nAfter confirming the high-performance WRX STI won't return to the lineup, the only changes to the 2023 WRX are some new rear headrests and slightly revised settings to the climate control, suspension and all-wheel-drive system. Subaru's high-performance sedan continues to rival other sport compact cars, though it no longer brings the exclusivity of all-wheel drive to the segment.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "20-23 mpg",
+    "engine": {
+      "type": "4-Cylinder",
+      "displacement": "2.4L",
+      "configuration": "F4 16V DOHC",
+      "power_hp": 270
+    },
+    "transmission": "CVT",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#0D1357",
+      "interior": "#252629"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/mvWpWeS948gHcUvepRlF36Q.jpg",
+      "sub1": "https://framerusercontent.com/images/bj2r3AGSWgI60QUCMCUzMQ96Y9I.jpg",
+      "sub2": "https://framerusercontent.com/images/XperED7V7iJB4mrZV3BaFvwAqc.jpg",
+      "sub3": "https://framerusercontent.com/images/LwMVpANXPokEZIeQquKyjKwKis.jpeg",
+      "sub4": "https://framerusercontent.com/images/YLDK1dynAmnM7fhonrpRd132h1E.jpg"
+    },
+    "price_per_day": 200,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Sport"
+  },
+
+  {
+    "id": "2023-alfa-romeo-giulia-sprint",
+    "make": "Alfa Romeo",
+    "model": "Giulia Sprint",
+    "logo": "https://framerusercontent.com/images/j6udJKsGOOdhYxUkeqheZcPuKY.png",
+    "year": 2023,
+    "overview": "Alfa Romeo Giulia Sprint přehled a úvod: Maybe you never liked the mainstream. Perhaps, in high school, you shunned football for rock climbing. You're eccentric. And you're passionate. Then you should give the Alfa Romeo Giulia a long, hard look. It's a luxury sedan that trades on its stunning good looks and lust-inducing performance. It makes willing sacrifices to space and practicality in service of beauty and driving pleasure. It's Italian. And it's eschews the comparative stoicism of its Germanic rivals in favor of heart-on-sleeve driving focus.\n \nDespite a mild refresh for 2024 — new headlights and taillights and a new 12.3-inch digital instrument display — the Giulia remains largely the same curvy, quick and involving sport sedan it's been since its 2017 debut. With a 280-horsepower base engine, the Giulia is as rapid as it is pretty. The eight-speed automatic gearbox snaps off upshifts with bolt-action precision, while the meaty steering wheel transmits granular-levels of road information into the driver's hands.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "23-29 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "2.0L",
+      "configuration": "I4 16V DOHC Turbo",
+      "power_hp": 280
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#570B0B",
+      "interior": "#6E6666"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/8XrveISBCswYHaqnl9sY371PA.jpeg",
+      "sub1": "https://framerusercontent.com/images/Xc93mQhYXuQZJOeiKH9IDXbfE.webp",
+      "sub2": "https://framerusercontent.com/images/7ULiowQVuJXWBF3LdfLLpOl1vTQ.jpg",
+      "sub3": "https://framerusercontent.com/images/wK0LYXCPBG8xp2TTm3PrECqM5Rg.jpg",
+      "sub4": "https://framerusercontent.com/images/vPLnNAQYZsEPw0Gm5zREXtQou0.jpg"
+    },
+    "price_per_day": 345,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Luxury"
+  },
+
+  {
+    "id": "2023-audi-a8-long",
+    "make": "Audi",
+    "model": "A8 Long",
+    "logo": "https://framerusercontent.com/images/uD70C56jtqMXWInWYY9Uho9ogZo.png",
+    "year": 2023,
+    "overview": "The 2023 Audi A8 flagship luxury sedan is fresh off some updates for the 2022 model year. The automaker's top sedan rides on an extended wheelbase and uses a 335-horsepower twin-turbocharged V6 that powers all four wheels through a standard all-wheel-drive system. If you prefer a sporty version of the A8, check out the Audi S8, which employs a twin-turbocharged V8 engine.\n \nThis year, Audi adds its brilliantly shining HD Matrix LED headlights to the optional Comfort Plus package, while the Executive package now boasts an automated remote parking assistance system that works if the driver is sitting behind the steering wheel or is standing outside of the A8. Otherwise, the A8 carries on without significant changes.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "20-23 mpg",
+    "engine": {
+      "type": "6-Cylinder Turbo",
+      "displacement": "3.0L",
+      "configuration": "V6 32V DOHC Turbo",
+      "power_hp": 335
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#4C4E4F",
+      "interior": "#EBEBEB"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/xu3vo3XwdSxs5VVDw65cp7esfY.jpg",
+      "sub1": "https://framerusercontent.com/images/kcLOpTyLQuyuoXlmfC3xzfvoPs.jpeg",
+      "sub2": "https://framerusercontent.com/images/k2qcHDTul7zLQzbgPelSThkxyeY.jpeg",
+      "sub3": "https://framerusercontent.com/images/8fPiLumfmsuk9ln9NO6drNF7dsw.jpg",
+      "sub4": "https://framerusercontent.com/images/0kKc3Uw5Ccg7XWKjMhfonMJgTs.jpeg"
+    },
+    "price_per_day": 430,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Luxury"
+  },
+
+  {
+    "id": "2022-bentley-flying-spur",
+    "make": "Bentley",
+    "model": "Flying Spur",
+    "logo": "https://framerusercontent.com/images/qKMa3OTpMZuHNFLQaRWOPY6Ss.png",
+    "year": 2023,
+    "overview": "The Bentley Flying Spur is an ultra-luxury sedan that's as rewarding to drive as it is to be driven in. The model is mechanically related to the excellent Bentley Continental GT coupe, so comfort and dynamism are in its DNA. It also inherits the Continental's muscular exterior styling, which not so subtly hints at the power beneath its sculpted hood.\n \nThe Flying Spur is available with a Porsche-sourced 542-horsepower twin-turbocharged V8, a 626-horsepower W12 or a new twin-turbo V6 plug-in hybrid drivetrain good for a combined 536 horsepower. Introduced for 2022, the new plug-in hybrid variant can drive roughly 25 miles on battery power alone, but in most cases you'll be asking the electric motor and gas engine to work in concert to deliver explosive acceleration.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "25-30 mpg",
+    "engine": {
+      "type": "8-Cylinder Turbo",
+      "displacement": "4.0L",
+      "configuration": "V8 32V DOHC Turbo",
+      "power_hp": 542
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#244B9E",
+      "interior": "#DEC3A9"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/wdXb1RLnOBQydMKyc2sctkUOais.jpg",
+      "sub1": "https://framerusercontent.com/images/ZVghZJiVXDdaEztB5IwN2jgFs5Y.jpeg",
+      "sub2": "https://framerusercontent.com/images/mEbQLFFGJVYlvNfrmGtqdCeU2Y.jpg",
+      "sub3": "https://framerusercontent.com/images/aa3iCsQxxitKAf8Jidoyxjduyds.jpg",
+      "sub4": "https://framerusercontent.com/images/C95nxXDMvpfA4lTQiUfzScZto.jpeg"
+    },
+    "price_per_day": 380,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Luxury"
+  },
+
+  {
+    "id": "2023-infiniti-q50-sensory",
+    "make": "Infiniti",
+    "model": "Q50 Sensory",
+    "logo": "https://framerusercontent.com/images/lM2DxdPmi4OaWaSIZBIblyBW6Q.png",
+    "year": 2023,
+    "overview": "The Q50 is Infiniti's small luxury sedan and the automaker's last remaining sedan. The only other car in the company's lineup is the Q60 coupe, and all its other models are SUVs. While most of its competitors have seen recent redesigns, the Q50 is basically the same car that was introduced for 2014. Its exterior design has aged well but everything else is showing its age, especially the interior.\n \nAs much as the Q50 needs a refresh or complete redesign for 2023, it returns with only very minor changes. As such, the Q50's engine remains one of its best attributes. It's a potent turbocharged V6 that provides plenty of power and is quite fuel-efficient. If you prefer rear-wheel drive, the Q50 has you covered, and all-wheel drive is available as an option.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "25-30 mpg",
+    "engine": {
+      "type": "6-Cylinder Turbo",
+      "displacement": "3.0L",
+      "configuration": "V6 32V DOHC Turbo",
+      "power_hp": 300
+    },
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#13245E",
+      "interior": "#2B2B2B"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/yYYihE49AwT6GvBeHuXPhoukvN0.jpeg",
+      "sub1": "https://framerusercontent.com/images/IzxF9XAa31pUmOJrWcmD5LUaa5c.jpg",
+      "sub2": "https://framerusercontent.com/images/3Jccx0BdoNSSfvir6xlhWftXY.webp",
+      "sub3": "https://framerusercontent.com/images/shjFPOoVqeShjeW1gRQGTr8XPqY.jpg",
+      "sub4": "https://framerusercontent.com/images/v8fgfTeBai9KBPQEyntqz1M8ic0.jpg"
+    },
+    "price_per_day": 350,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Luxury"
+  },
+
+  {
+    "id": "2023-jaguar-xf-p250se",
+    "make": "Jaguar",
+    "model": "XF P250SE",
+    "logo": "https://framerusercontent.com/images/DLtUjo7uDqHWmeQCz5TJNrnRvw.png",
+    "year": 2023,
+    "overview": "The XF is a midsize luxury sedan and the English automaker's last remaining car. With plans underway to become an all-electric brand, Jaguar will likely discontinue the XF in the coming years. In the meantime, the aging XF continues to receive minor updates in order to keep it competitive. For 2023, the SE and top R-Dynamic SE trims now come with Amazon Alexa, a voice command system that can be used for making phone calls, playing music, navigation guidance and more.\n \nAdaptive cruise control, which makes highway driving easier, is now standard on all trims. The starting price of the XF is attractive when compared to expensive European rivals like the Mercedes-Benz E-Class and BMW 5 Series, but not as low as the Lexus ES 350 or Cadillac CT5. If you can live without quick acceleration, engaging handling dynamics and the latest in tech but you enjoy an elegant and comfortable sedan with a high-quality interior, the XF could be a viable option.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "24-28 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "2.0L",
+      "configuration": "I4 16V DOHC Turbo",
+      "power_hp": 246
+    },
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#D9CD9E"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/xZg3A0ih9P63Jl1Qc08PGl506w.jpg",
+      "sub1": "https://framerusercontent.com/images/r1eHqoubSrLyfBQVPj0pojtmM.webp",
+      "sub2": "https://framerusercontent.com/images/eMFnqg6SrGEvNAPeZSC0drDMo.webp",
+      "sub3": "https://framerusercontent.com/images/VQed8E2OuDZfdSuUwIF1gdBoOvM.jpeg",
+      "sub4": "https://framerusercontent.com/images/9Mb5ooWo4AzfRcC3kLkC5OyYN54.webp"
+    },
+    "price_per_day": 380,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Luxury"
+  },
+
+  {
+    "id": "2023-lexus-ls-500-f-sport",
+    "make": "Lexus",
+    "model": "LS 500 F Sport",
+    "logo": "https://framerusercontent.com/images/eXCZVH3cQVuK30PZTpateDgqi7A.png",
+    "year": 2023,
+    "overview": "Nearly 35 years after its arrival, the luxury sedan that launched Lexus in America still commands attention. That's no small feat given the endless permutations of today's SUVs, but the 2023 Lexus LS 500, like its predecessors, remains the automaker's canvas for tech, comfort and safety innovations.\n \nThe LS 500 carries over largely unchanged for 2023 with one notable exception: A revised infotainment system adds a new touchscreen (still sized at 12.3 inches) and finally dispenses with the clumsy touchpad control of earlier systems. Features are now accessed through the touchscreen or voice commands. The updated system adds a voice assistant, de rigueur among modern luxury cars, that can respond to natural speech and control media, navigation.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "12-18 mpg",
+    "engine": {
+      "type": "6-Cylinder Turbo",
+      "displacement": "3.5L",
+      "configuration": "V6 24V DOHC Turbo",
+      "power_hp": 416
+    },
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#403424"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/wdKSOZaJhvonrg5oqBpLZ9YCT6o.jpg",
+      "sub1": "https://framerusercontent.com/images/bGTBsdwIhsFR7Pdt46Nl7Gs2trk.jpg",
+      "sub2": "https://framerusercontent.com/images/Ut5XIHWqTs0KvWbHGjbixvhz6vc.jpg",
+      "sub3": "https://framerusercontent.com/images/DYwxQMAygeswcWfw29TShqKoxQ.webp",
+      "sub4": "https://framerusercontent.com/images/W9fQcI8Jg81hdsNUa1IiLqM.webp"
+    },
+    "price_per_day": 950,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Luxury"
+  },
+
+  {
+    "id": "2023-mercedes-benz-gt63-amg",
+    "make": "Mercedes-Benz",
+    "model": "GT63 AMG",
+    "logo": "https://framerusercontent.com/images/acYQRQJKpXX6W2DcKL5wvww3c.png",
+    "year": 2023,
+    "overview": "The AMG GT is Mercedes' largest sport sedan and is the only AMG GT model left after the discontinuation of the coupe and convertible models last year. It's larger than the E-Class and sporty CLS, but it's smaller than the flagship S-Class. The AMG GT looks and drives sportier and offers more power than most Mercedes sedans, which lean more toward comfort than performance. It's the Mercedes to get if you want a large sedan, or \"four-door coupe,\" that provides loads of fun behind the wheel.\n \nOverall, the AMG GT sedan offers an attractive blend of luxury, tech, comfort and performance. But it's not the only large and sporty luxury sedan you should consider. Others, like the Porsche Panamera and BMW 8 Series Gran Coupe, also provide lots of power, engaging driving dynamics and plenty of comfort. There's also the Audi S7 to consider, and if you don't mind an all-electric sedan, the Audi e-tron GT might be up your alley.",
+    "body_type": "Sedan",
+    "seats": 4,
+    "fuel_consumption": "14-19 mpg",
+    "engine": {
+      "type": "8-Cylinder",
+      "displacement": "4.0L",
+      "configuration": "V8 32V DOHC",
+      "power_hp": 577
+    },
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#474747",
+      "interior": "#966F35"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/f9n7dYemZuP0Qj0mKD1MawIGo6Q.webp",
+      "sub1": "https://framerusercontent.com/images/ETRaryow0ewNnwSa20oE8XRGIE.jpeg",
+      "sub2": "https://framerusercontent.com/images/zbQ7JbWZIiIqmNxSBHfcAJkQ2oI.jpeg",
+      "sub3": "https://framerusercontent.com/images/lLrRX4sQFuF88y4tFqRKNMSs.jpeg",
+      "sub4": "https://framerusercontent.com/images/xCd8duqFEF1RHt3uCPVIcJtRVkA.jpeg"
+    },
+    "price_per_day": 690,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Luxury"
+  },
+
+  {
+    "id": "2023-mercedes-benz-s500-4matic",
+    "make": "Mercedes-Benz",
+    "model": "S500 4Matic",
+    "logo": "https://framerusercontent.com/images/acYQRQJKpXX6W2DcKL5wvww3c.png",
+    "year": 2023,
+    "overview": "For decades, the Mercedes-Benz S-Class has set the standard for the flagship luxury sedan class. The current model, introduced in 2021, is no exception. With its high levels of luxury, cutting-edge tech and near perfect balance of performance and comfort, the 2023 Mercedes-Benz S-Class sets a high bar for its competitors.\n \nThe S-Class is just two years into its redesign, so changes for 2023 are relatively minor. The biggest change is the introduction of the plug-in hybrid S 580e model. The six-cylinder hybrid variant makes an impressive 510 horsepower and can cover short distances on battery power alone. The S 580e is available with DC fast-charging capability, which can restore 80% of the battery in as little as 20 minutes.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "23-29 mpg",
+    "engine": {
+      "type": "6-Cylinder",
+      "displacement": "3.0L",
+      "configuration": "I6 Mild hybrid",
+      "power_hp": 430
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#242424"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/X4J61jq9AQYFLYrNH7WAGAsls.jpeg",
+      "sub1": "https://framerusercontent.com/images/zbQ7JbWZIiIqmNxSBHfcAJkQ2oI.jpeg",
+      "sub2": "https://framerusercontent.com/images/ETRaryow0ewNnwSa20oE8XRGIE.jpeg",
+      "sub3": "https://framerusercontent.com/images/lLrRX4sQFuF88y4tFqRKNMSs.jpeg",
+      "sub4": "https://framerusercontent.com/images/xCd8duqFEF1RHt3uCPVIcJtRVkA.jpeg"
+    },
+    "price_per_day": 350,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Luxury"
+  },
+
+  {
+    "id": "2023-porsche-panamera-executive",
+    "make": "Porsche",
+    "model": "Panamera Executive",
+    "logo": "https://framerusercontent.com/images/4wHGMD0YkVlhWLci3ud1QwK0iiQ.png",
+    "year": 2023,
+    "overview": "The Porsche Panamera is a unique vehicle and Porsche's only four-door car. Not only does it handle like a smaller sports car, it's offered in almost countless trim levels and in three body styles: a sleek wagon and a sedan with a hatchback that can be configured with a regular wheelbase or an extended wheelbase for more rear seat legroom. You also have the option of a turbocharged V6, V8 and plug-in hybrid powertrains.\n \nThere is a Panamera for almost anyone who can afford its six-figure price tag. And like most Porsches, the Panamera is luxurious and comfortable. The 2023 Panamera received only minor updates for the new model year. The most significant one is the addition of adaptive cruise control as standard equipment, which helps make highway driving easier and safer.",
+    "body_type": "Sedan",
+    "seats": 5,
+    "fuel_consumption": "14-19 mpg",
+    "engine": {
+      "type": "6-Cylinder Turbo",
+      "displacement": "2.9L",
+      "configuration": "V6 24V DOHC Turbo",
+      "power_hp": 325
+    },
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#BDBDBD",
+      "interior": "#9E866C"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/n4If9O0mKuht0dWKoWx78nO54Wg.jpg",
+      "sub1": "https://framerusercontent.com/images/O4GV1Vy3a2xHwOP16wsHB7k7coY.jpg",
+      "sub2": "https://framerusercontent.com/images/9gFbB4xU2plG91Pi041tovoqCo.jpeg",
+      "sub3": "https://framerusercontent.com/images/vkP81b7DuKOJ6ZLkyh6MNEcme4.jpeg",
+      "sub4": "https://framerusercontent.com/images/Rp3y1MN2bexZ0AMD6bvWNzJZ48.jpg"
+    },
+    "price_per_day": 590,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "Luxury"
+  },
+
+  {
+    "id": "2023-audi-q7-premium",
+    "make": "Audi",
+    "model": "Q7 Premium",
+    "logo": "https://framerusercontent.com/images/uD70C56jtqMXWInWYY9Uho9ogZo.png",
+    "year": 2023,
+    "overview": "Audi has a pretty extensive lineup of SUVs these days, especially if you include the latest all-electric models. But there's only one that has a third-row seat: the 2023 Audi Q7. As such, it's the one to focus on if you're looking for a luxury SUV that's also suitable for family-hauling duty. Its third row isn't huge, but otherwise the Q7 stands out with its premium-feeling cabin, expansive list of advanced features, and sharp-driving nature.\n \nThis 2023 model is part of the Q7's second generation, which came out back in 2017. As such, the design is starting to get a little dated. But overall the Q7 still ranks quite high among rivals such as the Acura MDX, BMW X5, Genesis GV80 and Mercedes-Benz GLE. Is the 2023 Q7 the best SUV for you? Check out the categories of our test team's Expert Rating below to help you decide.",
+    "body_type": "SUV",
+    "seats": 7,
+    "fuel_consumption": "25-30 mpg",
+    "engine": {
+      "type": "4-Cylinder",
+      "displacement": "2.0L",
+      "configuration": "I4 Mild hybrid",
+      "power_hp": 260
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Hybrid",
+    "colors": {
+      "exterior": "#D6D6D6",
+      "interior": "#0A0038"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/czQkU41PVEOsvkqFBrsP27xaS1U.jpg",
+      "sub1": "https://framerusercontent.com/images/k2qcHDTul7zLQzbgPelSThkxyeY.jpeg",
+      "sub2": "https://framerusercontent.com/images/C8aN73gNMjT8d9eOOn6qO8Y9HQs.jpeg",
+      "sub3": "https://framerusercontent.com/images/8fPiLumfmsuk9ln9NO6drNF7dsw.jpg",
+      "sub4": "https://framerusercontent.com/images/0kKc3Uw5Ccg7XWKjMhfonMJgTs.jpeg"
+    },
+    "price_per_day": 185,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "SUV"
+  },
+
+  {
+    "id": "2023-chevy-trailblazer-lt",
+    "make": "Chevrolet",
+    "model": "Trailblazer LT",
+    "logo": "https://framerusercontent.com/images/qqEvSQu9X86G1LMvcWJJqHSlMek.png",
+    "year": 2023,
+    "overview": "Much smaller than the midsize SUV TrailBlazers of the early 2000s, the 2023 Trailblazer is better known for its small, easy-to-park size and decent fuel economy. Slightly larger than the Chevy Trax and smaller than the sprightlier Equinox, the Trailblazer is sized just right for those looking for a five-passenger crossover. In the third year of the Chevrolet Trailblazer's latest generation, the subcompact crossover SUV offers a spacious cabin and stylish features in an affordable package.\n \nEquipped as standard with a turbocharged 137-horsepower 1.2-liter engine and front-wheel drive, the Trailblazer has enough get-up-and-go to crest hills and pass on the highway. Those looking for a little more oomph may choose the all-wheel-drive option, which comes with a more powerful engine. Inside the nicely appointed cabin, technology features are plentiful and include standard wireless Apple CarPlay and Android Auto.",
+    "body_type": "SUV",
+    "seats": 5,
+    "fuel_consumption": "20-23 mpg",
+    "engine": {
+      "type": "3-Cylinder",
+      "displacement": "1.2L",
+      "configuration": "I3 9V DOHC",
+      "power_hp": 137
+    },
+    "transmission": "CVT",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#D15E00",
+      "interior": "#262222"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/C90vWUd4vnGUrAyUn2X8BoZMvc.webp",
+      "sub1": "https://framerusercontent.com/images/8GyAg6gpw8PQml0PrC1Z32eknI.webp",
+      "sub2": "https://framerusercontent.com/images/raoxB8HlwknhuotgVWnDrfvCo.webp",
+      "sub3": "https://framerusercontent.com/images/Qore7ZK2LZBvIFdkyayRMfJ3Q.jpg",
+      "sub4": "https://framerusercontent.com/images/3ootBPYLMgmEMVzSy644sMaRzgY.webp"
+    },
+    "price_per_day": 225,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "SUV"
+  },
+
+  {
+    "id": "2023-genesis-gv70-2-5t",
+    "make": "Genesis",
+    "model": "GV70 2.5T",
+    "logo": "https://framerusercontent.com/images/Jdh5aYG7MwLFwkJuL042Q8tFM.png",
+    "year": 2023,
+    "overview": "Just a few years after launching as a stand-alone brand in 2017, Genesis sent its GV70 into the liveliest segment of the luxury car market — small crossovers — and crushed it. It immediately jumped to the top of our list of favorite vehicles in its class, and to the top of Genesis sales charts. Behind that Bentley-esque grille is a sumptuous interior packed with comfort, tech and safety features that rival any of the established luxury brands. The GV70 doesn't need to be priced lower than its competitors to be appealing, but it is, making it even more attractive.\n \nConfiguring a GV70 is simpler than speccing most of its competitors. Other brands offer lengthy à la carte option menus and assorted packages, but if you're buying a GV70, you pick an engine, a trim level, colors, and that's it. The only additional options are accessories like a cargo net or wheel locks.",
+    "body_type": "SUV",
+    "seats": 5,
+    "fuel_consumption": "25-30 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "2.5L",
+      "configuration": "I4 16V DOHC Turbo",
+      "power_hp": 300
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#363636"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/kvqfxRSIus4fyuiuwxiUOKiYvw.webp",
+      "sub1": "https://framerusercontent.com/images/oYpABTgbrwEoi8KCHPljqolfSDk.jpeg",
+      "sub2": "https://framerusercontent.com/images/T3eTkn888Uhn0ZXv8sqr2RWA.jpg",
+      "sub3": "https://framerusercontent.com/images/QHFLjE6Tomc15CpwQ9NjMsHo.jpeg",
+      "sub4": "https://framerusercontent.com/images/uHWOutUaaLGsF8XKtoVPA93117E.webp"
+    },
+    "price_per_day": 275,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "SUV"
+  },
+
+  {
+    "id": "2023-kia-sorento-lx",
+    "make": "Kia",
+    "model": "Sorento LX",
+    "logo": "https://framerusercontent.com/images/bUM0kRVMgw8NZ3CPhyBhg4xNxcQ.png",
+    "year": 2023,
+    "overview": "If you want a small SUV but sometimes need to transport six or more people, the 2023 Kia Sorento should be on your short list. The Sorento is one of only a handful of small SUVs on the market that offers third-row seating. Slotting between the smaller five-passenger Sportage and larger three-row Telluride, the Sorento is a right-sized option that can squeeze in up to seven passengers in a pinch.\n \nLike most other Kias, the Sorento comes with an impressive complement of standard features, including wireless connectivity for Apple CarPlay and Android Auto smartphone integration, lane keeping assistance (it helps keep the Sorento in its lane) and multiple USB charging ports.",
+    "body_type": "SUV",
+    "seats": 5,
+    "fuel_consumption": "14-19 mpg",
+    "engine": {
+      "type": "4-Cylinder",
+      "displacement": "2.5L",
+      "configuration": "I4 16V DOHC",
+      "power_hp": 190
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#262626",
+      "interior": "#3D3D3D"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/peqI6fkk3uHwFxMwPWEsTykTjQ.jpg",
+      "sub1": "https://framerusercontent.com/images/Fm4XOuF3ipqT5kfRF4lJ6lX5mE.jpg",
+      "sub2": "https://framerusercontent.com/images/NX8bPSzog8pmKTP06580pHIIg.jpg",
+      "sub3": "https://framerusercontent.com/images/fBdsZ2OXf5nRvgRvh7jiqvdYME.jpg",
+      "sub4": "https://framerusercontent.com/images/y1UZV3bP9eBiklfYOKMLqnwn4.jpg"
+    },
+    "price_per_day": 250,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "SUV"
+  },
+
+  {
+    "id": "2023-mazda-cx-50-premium",
+    "make": "Mazda",
+    "model": "CX-50 Premium",
+    "logo": "https://framerusercontent.com/images/o5YW0ttoUzs4LjhJeijYLvDAgJQ.png",
+    "year": 2023,
+    "overview": "Mazda sells two compact crossover SUVs. The CX-50 is one of them, and the popular CX-5 is the other. That's confusing, but Mazda's SUV lineup is in a state of transition to new naming conventions and market positioning, and though it is an older design, the CX-5 is Mazda's best-selling vehicle. So, instead of replacing the CX-5, the CX-50 complements it for now. Either one can serve your needs well, but Mazda positions the newer CX-50 as a more rugged and capable vehicle.\n \nMazda markets the CX-50 as ready for off-roading, touting its design, driving modes, standard all-wheel drive and list of dealer-installed adventure-oriented accessories as proof. Also, ground clearance ranges between 8.3 and 8.6 inches, which is pretty generous for a typical small crossover, and the Meridian Edition includes standard all-terrain tires for improved grip. Still, you might wonder whether the CX-50 is an off-roader or a soft-roader best used on more gentle trails.",
+    "body_type": "SUV",
+    "seats": 5,
+    "fuel_consumption": "12-18 mpg",
+    "engine": {
+      "type": "4-Cylinder",
+      "displacement": "2.5L",
+      "configuration": " I4 16V DOHC",
+      "power_hp": 180
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#C7C7C7",
+      "interior": "#634E36"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/zjhaFzVFLUYRHNyfnvDFwHJZsnA.jpeg",
+      "sub1": "https://framerusercontent.com/images/tWL7TWqdp5WDFv63w6HajdI.webp",
+      "sub2": "https://framerusercontent.com/images/klrIpe1HV70FWEoTlnRe5k3JA.jpeg",
+      "sub3": "https://framerusercontent.com/images/lGwDMU9OC1RdKsERaw7CbZzK0.webp",
+      "sub4": "https://framerusercontent.com/images/Su2kqj9U9HMm5k5g1w31Ngiw4cI.webp"
+    },
+    "price_per_day": 245,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "SUV"
+  },
+
+  {
+    "id": "2023-mercedes-benz-gle350",
+    "make": "Mercedes-Benz",
+    "model": "GLE350",
+    "logo": "https://framerusercontent.com/images/acYQRQJKpXX6W2DcKL5wvww3c.png",
+    "year": 2023,
+    "overview": "We've long considered the GLE a benchmark when it comes to combining premium luxury appointments, cool technology features, and pleasing comfort and utility in an SUV-shaped package. Mercedes also sells this midsize SUV in a variety of configurations to suit a variety of desires and budgets. You can even get it with a third-row seat — albeit a small one — to provide seven-passenger capacity in a pinch.\n \nThe current-generation GLE has been one of Edmunds' favorite luxury SUVs since it debuted, and for 2023 it returns mostly unchanged. But there are plenty of competitors. The BMW X5 has long been the GLE's closest rival and it offers a similar mix of luxury and capability. Other solid choices include the Audi Q7, Genesis GV80, Land Rover Defender and Porsche Cayenne. Read our Expert Rating below to see our test team's scoring and evaluation of the GLE's comfort, fuel economy and more.",
+    "body_type": "SUV",
+    "seats": 5,
+    "fuel_consumption": "23-29 mpg",
+    "engine": {
+      "type": "4-Cylinder Turbo",
+      "displacement": "2.0L",
+      "configuration": "I4 16V GDI Turbo",
+      "power_hp": 255
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#383838"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/BQxSm5sRU2Yxhyoy8i30XYG5M.jpg",
+      "sub1": "https://framerusercontent.com/images/zbQ7JbWZIiIqmNxSBHfcAJkQ2oI.jpeg",
+      "sub2": "https://framerusercontent.com/images/ETRaryow0ewNnwSa20oE8XRGIE.jpeg",
+      "sub3": "https://framerusercontent.com/images/xCd8duqFEF1RHt3uCPVIcJtRVkA.jpeg",
+      "sub4": "https://framerusercontent.com/images/lLrRX4sQFuF88y4tFqRKNMSs.jpeg"
+    },
+    "price_per_day": 165,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "SUV"
+  },
+
+  {
+    "id": "2023-mercedes-benz-maybach-gls",
+    "make": "MB",
+    "model": "Maybach GLS",
+    "logo": "https://framerusercontent.com/images/acYQRQJKpXX6W2DcKL5wvww3c.png",
+    "year": 2023,
+    "overview": "If you're familiar with the Maybach name, you're likely thinking of an extra-large and superbly luxurious Mercedes S-Class sedan. But what you might not know is that the GLS, Mercedes’ largest SUV, has been getting the Maybach treatment since 2021. The Maybach GLS 600 is the brand's most opulent and most expensive SUV. It looks much like the regular GLS but sports unique exterior trim and, of course, the revered Maybach badge. You can also opt for an available two-tone paint job. But what's inside really sets it apart from the regular GLS.\n \nThe Maybach GLS 600's interior is adorned with the best Mercedes has to offer, including soft Nappa leather that covers most surfaces, high-quality wood trim and outstanding technology. The Maybach SUV also comes standard with impressive features, including heated and ventilated front and rear massaging seats, cupholders that can be heated or cooled, and an interior fragrance system.",
+    "body_type": "SUV",
+    "seats": 7,
+    "fuel_consumption": "23-29 mpg",
+    "engine": {
+      "type": "8-Cylinder",
+      "displacement": "4.0L",
+      "configuration": "V8 Mild hybrid",
+      "power_hp": 550
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Hybrid",
+    "colors": {
+      "exterior": "#000000",
+      "interior": "#332414"
+    },
+    "primary_features": [
+      "22-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/mHbiEzpe9jSwRQXlEZ4EW9NQZk.jpeg",
+      "sub1": "https://framerusercontent.com/images/zbQ7JbWZIiIqmNxSBHfcAJkQ2oI.jpeg",
+      "sub2": "https://framerusercontent.com/images/ETRaryow0ewNnwSa20oE8XRGIE.jpeg",
+      "sub3": "https://framerusercontent.com/images/xCd8duqFEF1RHt3uCPVIcJtRVkA.jpeg",
+      "sub4": "https://framerusercontent.com/images/lLrRX4sQFuF88y4tFqRKNMSs.jpeg"
+    },
+    "price_per_day": 135,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "SUV"
+  },
+
+  {
+    "id": "2023-porsche-cayenne-turbo-gt",
+    "make": "Porsche",
+    "model": "Cayenne Turbo GT",
+    "logo": "https://framerusercontent.com/images/4wHGMD0YkVlhWLci3ud1QwK0iiQ.png",
+    "year": 2023,
+    "overview": "To create the Cayenne Coupe, Porsche takes the already rakish standard Cayenne SUV, shaves the roofline for a faster silhouette, and reduces passenger capacity to four people. The Cayenne Coupe offers less cargo room as a result, but Porsche maximizes passenger headroom by dropping the rear seat cushion nearly 2 inches. In standard specification, four people can ride in the Cayenne Coupe, but you can add a fifth position as a no-charge option.\n \nOther than styling and interior packaging changes, the Cayenne Coupe is nearly identical to the standard Cayenne. That means it offers multiple gas and plug-in hybrid powertrains ranging in output from 335 horsepower to a mighty 670 hp. If you want the quickest and most expensive version of the Cayenne, you'll have no choice but to shop the Coupe lineup because it's the only one offering the riotously fast Turbo GT model.",
+    "body_type": "SUV",
+    "seats": 5,
+    "fuel_consumption": "24-28 mpg",
+    "engine": {
+      "type": "8-Cylinder",
+      "displacement": "4.0L",
+      "configuration": "V8 DOHC",
+      "power_hp": 630
+    },
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "fuel_type": "Gasoline",
+    "colors": {
+      "exterior": "#303038",
+      "interior": "#1F1F1F"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/Mjd9WZiH5mnHxYJbceQicaOBY.jpg",
+      "sub1": "https://framerusercontent.com/images/3m3QYIqlDJ7BNW1ogOlBCqGXs0Q.jpg",
+      "sub2": "https://framerusercontent.com/images/7ABYBbkLn6buEHQzoDdcGRcqclI.jpeg",
+      "sub3": "https://framerusercontent.com/images/9gFbB4xU2plG91Pi041tovoqCo.jpeg",
+      "sub4": "https://framerusercontent.com/images/vkP81b7DuKOJ6ZLkyh6MNEcme4.jpeg"
+    },
+    "price_per_day": 150,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "SUV"
+  },
+
+  {
+    "id": "2023-tesla-model-y",
+    "make": "Tesla",
+    "model": "Model Y",
+    "logo": "https://framerusercontent.com/images/IwsaUSNoOXMXwNcTSBrVtI7pEQ.png",
+    "year": 2023,
+    "overview": "The Tesla Model Y is an all-electric SUV and the fourth model in Tesla's lineup, slotting underneath the Model X and offering a more spacious (albeit more expensive) alternative to the Model 3 sedan. It's one of the most popular electric cars on the road thanks to excellent electric range, loads of in-car tech and swift acceleration, especially in the Performance trim.\n \nOfficial details for the 2023 Model Y will likely keep trickling in throughout the year. Unlike most other automakers, Tesla makes rolling updates to its vehicles rather than waiting for a brand-new model year to come around. Recent updates include pricing reductions and the introduction of an Enhanced Autopilot option that adds a variety of advanced driver assist features, such as automatic lane changes as well as self-parking and summon features, without having to pay for the full-boat Full Self-Driving upgrade.",
+    "body_type": "SUV",
+    "seats": 7,
+    "fuel_consumption": "-",
+    "engine": {
+      "type": "Electric",
+      "displacement": "Electric 202 kW,",
+      "configuration": "320 V",
+      "power_hp": 202
+    },
+    "transmission": "Direct Drive",
+    "drivetrain": "AWD",
+    "fuel_type": "Electro",
+    "colors": {
+      "exterior": "#B0B0B0",
+      "interior": "#EBEBEB"
+    },
+    "primary_features": [
+      "19-inch wheels",
+      "LED headlights",
+      "Rain-sensing windshield wipers",
+      "Push-button start",
+      "Forward collision warning",
+      "Lane departure warning",
+      "Front and rear parking sensors"
+    ],
+    "additional_features": [
+      "Keyless access",
+      "Power moonroof",
+      "Heated front seats",
+      "Heated steering wheel",
+      "Wireless device charging",
+      "Harman Kardon stereo"
+    ],
+    "images": {
+      "main": "https://framerusercontent.com/images/tV5EO9JVTnGYRlNIXSoRjPO1o.jpg",
+      "sub1": "https://framerusercontent.com/images/wiRVsEr4BjnRbbAmnAyDF1GL8g.jpg",
+      "sub2": "https://framerusercontent.com/images/aVfgBZ5m7kB5X5sOvDRhAM4KRc.jpg",
+      "sub3": "https://framerusercontent.com/images/7kmBZak9bid01XbqtGuHW7Z4k.webp",
+      "sub4": "https://framerusercontent.com/images/gTtnRRhw0GQoqU3buLyyWN82o34.webp"
+    },
+    "price_per_day": 195,
+    "currency": "USD",
+    "rental_conditions": "Renting a sports car also allows you to explore Dubai in a way that you never thought was possible. You can take a leisurely drive along the stunning coastline of Dubai, take a scenic route through the desert or simply enjoy the breathtaking views of the city. No matter where you go, a sports car rental in Dubai will always make your journey a memorable one.",
+    "rental_class": "SUV"
+  }
+]

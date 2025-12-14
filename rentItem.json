@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1763131258828",
+    "carId": "2023-bmw-alpina-b8-coupe",
+    "userId": 3,
+    "userEmail": "ad@gmail.com",
+    "userName": "adminAdham",
+    "startDate": "2025-11-20",
+    "endDate": "2025-11-21",
+    "pickupLocation": "Default Location",
+    "dropoffLocation": "Default Location",
+    "specialRequests": "",
+    "totalDays": 1,
+    "pricePerDay": 190,
+    "totalPrice": 190,
+    "status": "cancelled",
+    "createdAt": "2025-11-14T14:40:58.828Z"
+  },
+  {
+    "id": "1763131864668",
+    "carId": "2023-bmw-alpina-b8-coupe",
+    "userId": 3,
+    "userEmail": "ad@gmail.com",
+    "userName": "adminAdham",
+    "startDate": "2025-11-14",
+    "endDate": "2025-11-19",
+    "pickupLocation": "Default Location",
+    "dropoffLocation": "Default Location",
+    "specialRequests": "",
+    "totalDays": 5,
+    "pricePerDay": 190,
+    "totalPrice": 950,
+    "status": "cancelled",
+    "createdAt": "2025-11-14T14:51:04.668Z",
+    "cancelledAt": "2025-11-14T15:35:01.961Z"
+  },
+  {
+    "id": "1763152133858",
+    "carId": "2023-mercedes-benz-c300",
+    "userId": 3,
+    "userEmail": "ad@gmail.com",
+    "userName": "adminAdham",
+    "startDate": "2025-11-14",
+    "endDate": "2025-11-20",
+    "pickupLocation": "Default Location",
+    "dropoffLocation": "Default Location",
+    "specialRequests": "",
+    "totalDays": 6,
+    "pricePerDay": 45,
+    "totalPrice": 270,
+    "status": "active",
+    "paymentInfo": {
+      "method": "credit-card",
+      "cardNumber": "12",
+      "cardName": "12",
+      "expirationDate": "12",
+      "cvc": "12"
+    },
+    "createdAt": "2025-11-14T20:28:53.858Z"
+  }
+]
