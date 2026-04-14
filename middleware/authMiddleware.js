@@ -1,20 +1,7 @@
 const jwt = require("jsonwebtoken");
 const User =
   process.env.USE_MONGODB === "true" ? require("../models/User") : null;
-const fs = require("fs");
-const path = require("path");
-
-const usersPath = path.join(__dirname, "..", "users.json");
-
-// Helper function to read users from JSON
-function readUsers() {
-  if (!fs.existsSync(usersPath)) return [];
-  try {
-    return JSON.parse(fs.readFileSync(usersPath, "utf8") || "[]");
-  } catch {
-    return [];
-  }
-}
+const { readJsonFile } = require("../utils/fileHelpers");
 
 // Middleware to protect routes
 const protect = async (req, res, next) => {
@@ -42,7 +29,7 @@ const protect = async (req, res, next) => {
         }
       } else {
         // JSON fallback
-        const users = readUsers();
+        const users = await readJsonFile("users.json");
         const user = users.find((u) => u.id == decoded.id || u._id == decoded.id);
         if (!user) {
           return res.status(401).json({ error: "User not found" });

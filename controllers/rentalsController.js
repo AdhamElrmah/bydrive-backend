@@ -1,8 +1,6 @@
 /* eslint-env node */
 /* global require, module process __dirname*/
 
-const fs = require("fs");
-const path = require("path");
 const jwt = require("jsonwebtoken");
 const mongoose = require("mongoose");
 
@@ -49,7 +47,7 @@ const checkCarAvailability = async (req, res) => {
         car: { id },
       });
     } else {
-      const rentals = readJsonFile("rentItem.json");
+      const rentals = await readJsonFile("rentItem.json");
       const isOverlapping = rentals.some(
         (rental) =>
           rental.carId == id &&
@@ -94,7 +92,7 @@ const rentItem = async (req, res) => {
     if (process.env.USE_MONGODB === "true" && User) {
       currentUser = await User.findOne({ email: currentUserEmail });
     } else {
-      const users = readJsonFile("users.json");
+      const users = await readJsonFile("users.json");
       currentUser = users.find((u) => u.email === currentUserEmail);
     }
 
@@ -112,7 +110,7 @@ const rentItem = async (req, res) => {
           (await Car.findOne({ id: parseInt(id) }));
       }
     } else {
-      const cars = readJsonFile("cars.json");
+      const cars = await readJsonFile("cars.json");
       car = cars.find((c) => c.id == id);
     }
 
@@ -132,7 +130,7 @@ const rentItem = async (req, res) => {
         $or: [{ startDate: { $lte: endDate }, endDate: { $gte: startDate } }],
       });
     } else {
-      const rentals = readJsonFile("rentItem.json");
+      const rentals = await readJsonFile("rentItem.json");
       isOverlapping = rentals.some(
         (rental) =>
           rental.carId == id &&
@@ -186,7 +184,7 @@ const rentItem = async (req, res) => {
         },
       });
     } else {
-      const rentals = readJsonFile("rentItem.json");
+      const rentals = await readJsonFile("rentItem.json");
       const rentalId = Date.now().toString();
       const rentalData = {
         id: rentalId,
@@ -208,7 +206,7 @@ const rentItem = async (req, res) => {
       };
 
       rentals.push(rentalData);
-      writeJsonFile("rentItem.json", rentals);
+      await writeJsonFile("rentItem.json", rentals);
 
       res.status(200).json({
         message: "Car rented successfully",
@@ -272,7 +270,7 @@ const getUserRentals = async (req, res) => {
       res.status(200).json(rentalsWithCars);
     } else {
       // JSON fallback
-      const rentals = readJsonFile("rentItem.json");
+      const rentals = await readJsonFile("rentItem.json");
       const userRentals = rentals.filter(
         (r) => r.userEmail === currentUserEmail
       );
@@ -353,7 +351,7 @@ const cancelRental = async (req, res) => {
       res.status(200).json({ message: "Rental cancelled successfully" });
     } else {
       // JSON fallback
-      const rentals = readJsonFile("rentItem.json");
+      const rentals = await readJsonFile("rentItem.json");
       const rentalIndex = rentals.findIndex((r) => r.id == req.params.id);
       if (rentalIndex === -1) {
         return res.status(404).json({ error: "Rental not found" });
@@ -367,7 +365,7 @@ const cancelRental = async (req, res) => {
       }
 
       rental.status = "cancelled";
-      writeJsonFile("rentItem.json", rentals);
+      await writeJsonFile("rentItem.json", rentals);
 
       res.status(200).json({ message: "Rental cancelled successfully" });
     }
@@ -500,7 +498,7 @@ const getAllRentals = async (req, res) => {
     } else {
       // JSON fallback
       console.log("Using JSON fallback for rentals");
-      const rentals = readJsonFile("rentItem.json");
+      const rentals = await readJsonFile("rentItem.json");
       res.status(200).json(rentals);
     }
   } catch (error) {
@@ -579,7 +577,7 @@ const updateRental = async (req, res) => {
       res.status(200).json(rental);
     } else {
       // JSON fallback
-      const rentals = readJsonFile("rentItem.json");
+      const rentals = await readJsonFile("rentItem.json");
       const rentalIndex = rentals.findIndex((r) => r.id == req.params.id);
 
       if (rentalIndex === -1) {
@@ -603,7 +601,7 @@ const updateRental = async (req, res) => {
         rental.status = status;
       }
 
-      writeJsonFile("rentItem.json", rentals);
+      await writeJsonFile("rentItem.json", rentals);
       res.status(200).json(rental);
     }
   } catch (error) {
@@ -638,7 +636,7 @@ const getBookingsForCar = async (req, res) => {
     }
 
     // JSON fallback
-    const rentals = readJsonFile("rentItem.json");
+    const rentals = await readJsonFile("rentItem.json");
     const filtered = rentals.filter(
       (r) => r.carId == id && r.status === "active"
     );

@@ -1,8 +1,6 @@
 /* eslint-env node */
 /* global require, exports, __dirname, process */
 
-const fs = require("fs");
-const path = require("path");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
 
@@ -73,7 +71,7 @@ exports.signup = async (req, res) => {
       res.status(201).json({ user: publicUser, token });
     } else {
       // JSON fallback
-      const users = readJsonFile("users.json");
+      const users = await readJsonFile("users.json");
       const exists = users.find((u) => u.email === email);
       if (exists) {
         return res
@@ -100,7 +98,7 @@ exports.signup = async (req, res) => {
         role: role || "user",
       };
       users.push(newUser);
-      writeJsonFile("users.json", users);
+      await writeJsonFile("users.json", users);
 
       const token = generateToken(newUser.id, newUser.email);
       const { passwordHash: _passwordHash, ...publicUser } = newUser;
@@ -147,7 +145,7 @@ exports.signin = async (req, res) => {
       res.status(200).json({ user: publicUser, token });
     } else {
       // JSON fallback
-      const users = readJsonFile("users.json");
+      const users = await readJsonFile("users.json");
       const user = users.find((u) => u.email === email || u.username === email);
       if (!user) return res.status(401).json({ error: "Invalid credentials" });
 

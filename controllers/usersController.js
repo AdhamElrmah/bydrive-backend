@@ -1,8 +1,6 @@
 /* eslint-env node */
 /* global require, exports, __dirname ,process*/
 
-const fs = require("fs");
-const path = require("path");
 const mongoose = require("mongoose");
 
 const User =
@@ -25,7 +23,7 @@ exports.getAllUsers = async (req, res) => {
 
       res.status(200).json(usersWithIds);
     } else {
-      const users = readJsonFile("users.json").map((user) => {
+      const users = (await readJsonFile("users.json")).map((user) => {
         const { passwordHash, ...publicUser } = user;
         return publicUser;
       });
@@ -93,7 +91,7 @@ exports.getUserById = async (req, res) => {
       });
     } else {
       // JSON fallback
-      const users = readJsonFile("users.json");
+      const users = await readJsonFile("users.json");
       const user = users.find((u) => u.id == userId);
       if (!user) {
         return res.status(404).json({ error: "User not found" });
@@ -141,7 +139,7 @@ exports.createUser = async (req, res) => {
       res.status(201).json(publicUser);
     } else {
       // JSON fallback
-      const users = readJsonFile("users.json");
+      const users = await readJsonFile("users.json");
       const exists = users.find((u) => u.email === email);
       if (exists) {
         return res.status(409).json({ error: "User already exists" });
@@ -157,7 +155,7 @@ exports.createUser = async (req, res) => {
         role: role || "user",
       };
       users.push(newUser);
-      writeJsonFile("users.json", users);
+      await writeJsonFile("users.json", users);
 
       const { passwordHash: _passwordHash, ...publicUser } = newUser;
       res.status(201).json(publicUser);
@@ -283,7 +281,7 @@ exports.updateUser = async (req, res) => {
       return res.status(404).json({ error: "User not found" });
     } else {
       // JSON fallback
-      const users = readJsonFile("users.json");
+      const users = await readJsonFile("users.json");
       const userIndex = users.findIndex((u) => u.id == userId);
       if (userIndex === -1) {
         return res.status(404).json({ error: "User not found" });
@@ -303,7 +301,7 @@ exports.updateUser = async (req, res) => {
       }
 
       users[userIndex] = { ...currentUser, ...updates };
-      writeJsonFile("users.json", users);
+      await writeJsonFile("users.json", users);
       const { passwordHash, ...publicUser } = users[userIndex];
       res.status(200).json(publicUser);
     }
@@ -366,13 +364,13 @@ exports.deleteUser = async (req, res) => {
       return res.status(404).json({ error: "User not found" });
     } else {
       // JSON fallback
-      const users = readJsonFile("users.json");
+      const users = await readJsonFile("users.json");
       const userIndex = users.findIndex((u) => u.id == userId);
       if (userIndex === -1) {
         return res.status(404).json({ error: "User not found" });
       }
       users.splice(userIndex, 1);
-      writeJsonFile("users.json", users);
+      await writeJsonFile("users.json", users);
       res.status(200).json({ message: "User deleted successfully" });
     }
   } catch (error) {
